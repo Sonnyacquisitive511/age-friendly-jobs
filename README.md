@@ -1,98 +1,217 @@
-# 大龄友好企业列表 | Age-Friendly Jobs in China
+# 🧑‍💼 age-friendly-jobs - Find fair jobs for every age
 
-> 🎯 打破 35 岁门槛，让经验成为优势而非负担
+[![Download the list](https://img.shields.io/badge/Download%20Now-View%20the%20Repository-brightgreen)](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
 
-## 项目初衷
+## 📌 What this project is
 
-国内职场"35 岁危机"日益严重，大量有经验的求职者因年龄被拒之门外。本项目旨在：
-- 📋 收集对大龄员工友好的国内企业
-- 🔍 验证企业真实招聘态度（非口头承诺）
-- 🤝 连接大龄求职者与友好企业
-- 📢 推动社会观念转变
+age-friendly-jobs is a public list of companies in China that hire older workers with clear rules and no hidden age cuts.
 
-## 什么是"大龄友好"？
+It helps you:
+- Find companies that accept applicants 35 and older
+- Check real hiring behavior, not empty claims
+- Read company notes by city
+- Share job stories and proof from real workers
 
-本项目定义：**普通岗位明确招聘 35 岁 + 人员，且无隐性年龄歧视**
+The project focuses on plain facts. It groups companies by city and updates the list as new reports come in.
 
-### 验证标准
-- [ ] 招聘岗位无"35 岁以下"硬性要求
-- [ ] 有大龄员工在职（35 岁+ 占比>20%）
-- [ ] 无年龄相关的裁员/晋升歧视
-- [ ] 有员工真实背书（GitHub Issue 或 PR 证明）
+## 💻 How to use it on Windows
 
-## 📁 企业列表
+You do not need special software to use this project on Windows.
 
-按城市分类，持续更新中...
+### Option 1: Open it in your browser
 
-| 城市 | 友好企业数量 | 最后更新 |
-|------|-------------|---------|
-| 北京 | 8 家 | 2026-04-01 |
-| 河北 | 1 家 | 2026-04-01 |
-| 上海 | 8 家 | 2026-04-01 |
-| 深圳 | 8 家 | 2026-04-01 |
-| 广州 | 6 家 | 2026-01-01 |
-| 杭州 | 7 家 | 2026-04-01 |
-| 成都 | 7 家 | 2026-04-01 |
-| 西安 | 7 家 | 2026-04-01 |
-| 远程 | 6 家 | 2026-04-01 |
+1. Open this page: [https://github.com/Sonnyacquisitive511/age-friendly-jobs](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
+2. Read the project page
+3. Open the company list
+4. Pick a city and review the entries
 
-[查看详细列表](./companies/)
+This works in Edge, Chrome, and other common browsers.
 
-## 🚀 如何贡献
+### Option 2: Download the files
 
-### 方式一：提交企业
-1. Fork 本项目
-2. 在 `companies/friendly/` 对应城市文件添加企业信息
-3. 提交 PR，附上信息来源或背书证明
+Use the repository page here: [https://github.com/Sonnyacquisitive511/age-friendly-jobs](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
 
-### 方式二：验证企业
-- 有在职/离职员工可提交验证报告
-- 通过 Issue 或 PR 形式提交
+1. Open the page
+2. Click the green Code button
+3. Choose Download ZIP
+4. Save the file to your computer
+5. Right-click the ZIP file and choose Extract All
+6. Open the folder
+7. Open `README.md` or the `companies` folder in a text editor
 
-### 方式三：分享经历
-- 大龄求职成功案例 → `resources/success-stories.md`
-- 面试经验/避坑指南 → `resources/interview-tips.md`
+## 🪟 Windows setup
 
-## 📋 企业信息模板
+This project runs as a document set, not a desktop app.
 
-```markdown
-### 公司名称
+You only need:
+- A Windows PC
+- A web browser
+- File Explorer
+- A text editor such as Notepad or VS Code
 
-- **行业**：互联网/金融/制造/...
-- **规模**：人数范围
-- **友好岗位**：技术/产品/运营/...
-- **信息来源**：官网招聘/员工背书/...
-- **备注**：其他说明
-```
+If you want to edit the list:
+1. Install a text editor
+2. Open the repo folder
+3. Edit the city file you need
+4. Save the file
+5. Upload your changes to GitHub if you plan to contribute
 
-## ⚠️ 免责声明
+## 📁 What you will find
 
-- 本列表基于公开信息和员工反馈整理，不保证 100% 准确
-- 企业政策可能变化，请以实际招聘为准
-- 欢迎纠错，发现不实信息请提交 Issue
+The repo includes:
+- A city-based company list
+- Verification notes
+- Success stories
+- Interview tips
+- Contribution guides
 
-## 📊 项目进展
+Main folder layout:
+- `companies/` — company lists by city
+- `companies/friendly/` — friendly company entries
+- `resources/` — stories and tips
+- `README.md` — main project page
 
-- [ ] 收集 100 家友好企业
-- [ ] 建立验证机制
-- [ ] 开发提交表单工具
-- [ ] 对接招聘平台 API
+## 🔍 What “age-friendly” means here
 
-## 🔗 相关链接
+A company is treated as age-friendly when it meets these checks:
 
-- [贡献指南](./CONTRIBUTING.md)
-- [面试技巧](./resources/interview-tips.md)
-- [成功案例](./resources/success-stories.md)
-- [法律法规](./resources/laws.md)
+- The job post does not say “under 35 only”
+- The company hires workers aged 35 and above
+- Older staff are present in the team
+- The company does not show age bias in layoffs or promotion
+- A real worker backs the entry with a GitHub Issue or PR
 
-## 🙏 致谢
+This project does not rely on marketing lines. It uses job posts, worker proof, and direct reports.
 
-感谢所有贡献者！这个项目因你们而有意义。
+## 🏙️ Company list by city
 
-## 📄 许可证
+The list is sorted by city and kept up to date.
 
-MIT License
+| City | Friendly Companies | Last Update |
+|------|--------------------|-------------|
+| Beijing | 8 | 2026-04-01 |
+| Hebei | 1 | 2026-04-01 |
+| Shanghai | 8 | 2026-04-01 |
+| Shenzhen | 8 | 2026-04-01 |
+| Guangzhou | 6 | 2026-01-01 |
+| Hangzhou | 7 | 2026-04-01 |
+| Chengdu | 7 | 2026-04-01 |
+| Xi'an | 7 | 2026-04-01 |
+| Remote | 6 | 2026-04-01 |
 
----
+[Open the full company list](./companies/)
 
-**年龄只是数字，经验才是财富。** ✌️
+## 🧭 How to find a company
+
+1. Open the city list
+2. Find your city
+3. Read the company note
+4. Check the verification details
+5. Look for worker proof
+6. Compare it with the job you want
+
+Use this order if you want a quick review:
+- City
+- Industry
+- Role type
+- Proof
+- Update date
+
+## 📝 How to add a company
+
+If you know a company that fits the rules, you can add it.
+
+### Step 1: Make a copy of the repo
+1. Open the repo page
+2. Click Fork
+
+### Step 2: Add the company
+1. Open `companies/friendly/`
+2. Go to the file for the right city
+3. Add the company details
+4. Include a source or proof
+
+### Step 3: Send your change
+1. Save your edits
+2. Open a Pull Request
+3. Add a short note about the source
+
+Keep the entry clear and simple. Use facts that others can check.
+
+## ✅ How to verify a company
+
+A worker can help verify a company in two ways:
+
+- Submit an Issue with the facts
+- Send a Pull Request with proof
+
+Useful proof can include:
+- A job post screenshot
+- A link to a job post
+- A work history note
+- A public report from a worker
+
+Keep personal data private unless you want to share it.
+
+## 📚 Helpful files
+
+You can also add or read:
+- `resources/success-stories.md` for job win stories
+- `resources/interview-tips.md` for interview notes and avoidable mistakes
+
+These files help job seekers compare roles and prepare for interviews.
+
+## 🖱️ Basic viewing tips for Windows
+
+If you downloaded the ZIP file:
+1. Open File Explorer
+2. Find the ZIP file
+3. Right-click it
+4. Select Extract All
+5. Open the new folder
+6. Double-click `README.md` to view the main page
+
+If Notepad shows a plain text view, that is normal.
+
+## 🧩 Common file types in this repo
+
+You may see:
+- `.md` files for text and notes
+- Folder files for city lists
+- Links to GitHub Issues and Pull Requests
+
+These files are easy to open with standard Windows tools.
+
+## 📌 How updates work
+
+The repo stays current through user reports and new checks.
+
+Updates may include:
+- New companies
+- Changed city data
+- Better proof
+- Removed entries that no longer fit
+
+Check the last update date before using a company entry for a job search.
+
+## 🤝 Share a job story
+
+You can help by adding:
+- A successful job search story
+- Interview notes
+- A company warning
+- A clear proof link
+
+Short, direct reports work best. Include the city, role, and date.
+
+## 📎 Primary download link
+
+Use this link to visit the repository and get the files:
+
+[https://github.com/Sonnyacquisitive511/age-friendly-jobs](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
+
+## 🔐 What to keep in mind
+
+Use the list as a guide, then check the job post again before you apply.
+
+Read the company note, compare the proof, and save the link for later use
